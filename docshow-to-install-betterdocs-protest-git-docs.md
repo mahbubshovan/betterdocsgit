@@ -1,4 +1,4 @@
-<h1>How to Install BetterDocs PRO?</h1>
+<h1>How to Install BetterDocs PRO?Test Git Docs</h1>
 
 <!-- wp:paragraph -->
 <p><a href="http://betterdocs.co/#pricing" target="_blank" rel="noreferrer noopener"><strong>BetterDocs PRO</strong></a> comes with amazing features like <a href="https://betterdocs.co/blog/instant-answer-wordpress-betterdocs/" target="_blank" rel="noreferrer noopener"><strong>Instant Answer</strong></a>, <a href="https://betterdocs.co/docs/analytics-evaluate-knowledge-base/" target="_blank" rel="noreferrer noopener"><strong>Insightful Analytics</strong></a>, <a href="https://betterdocs.co/blog/multiple-knowledge-bases-wordpress/" target="_blank" rel="noreferrer noopener"><strong>Multiple Knowledge Base</strong></a>, etc. which can supercharge your knowledge base experience.</p>
