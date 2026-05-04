@@ -15,7 +15,7 @@ https://www.youtube.com/embed/F8o64cyHlZc?feature=oembed
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>Step 1:</strong> Make sure that you have <a href="http://betterdocs.co/docs/activate-betterdocs/" target="_blank" rel="noreferrer noopener"><strong>Installed and Activated the Free version of BetterDocs</strong></a>. You will need to keep the Free version activated to use the PRO Version.</p>
+<p><strong>Step 1:</strong> Make sure that you have <a href="http://betterdocs.co/docs/activate-betterdocs/" target="_blank" rel="noreferrer noopener"><strong>Installed and Activated the Free version of BetterDocs FREE</strong></a>. You will need to keep the Free version activated to use the PRO Version.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13523} -->
