@@ -1,7 +1,7 @@
 <h1>How to Install BetterDocs PRO?</h1>
 
 <!-- wp:paragraph -->
-<p><a href="http://betterdocs.co/#pricing" target="_blank" rel="noreferrer noopener"><strong>BetterDocs PRO</strong></a> comes with amazing features like <a href="https://betterdocs.co/blog/instant-answer-wordpress-betterdocs/" target="_blank" rel="noreferrer noopener"><strong>Instant Answer</strong></a>, <a href="https://betterdocs.co/docs/analytics-evaluate-knowledge-base/" target="_blank" rel="noreferrer noopener"><strong>Insightful Analytics</strong></a>, <a href="https://betterdocs.co/blog/multiple-knowledge-bases-wordpress/" target="_blank" rel="noreferrer noopener"><strong>Multiple Knowledge Base</strong></a>, etc. which can supercharge your knowledge base experience.</p>
+<p><a href="http://betterdocs.co/#pricing" target="_blank" rel="noreferrer noopener"><strong>BetterDocs PRO</strong></a> comes with amazing features like <a href="https://betterdocs.co/blog/instant-answer-wordpress-betterdocs/" target="_blank" rel="noreferrer noopener"><strong>Instant Answer</strong></a>, <a href="https://betterdocs.co/docs/analytics-evaluate-knowledge-base/" target="_blank" rel="noreferrer noopener"><strong>Insightful Analytics</strong></a>, <a href="https://betterdocs.co/blog/multiple-knowledge-bases-wordpress/" target="_blank" rel="noreferrer noopener"><strong>Multiple Knowledge Base</strong></a>, etc. which can supercharge your knowledge base experience. kosto</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:embed {"url":"https://www.youtube.com/embed/F8o64cyHlZc?feature=oembed","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
