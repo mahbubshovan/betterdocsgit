@@ -11,11 +11,11 @@ https://www.youtube.com/embed/F8o64cyHlZc?feature=oembed
 <!-- /wp:embed -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="0-toc-title"><strong>How To Install BetterDocs PRO</strong></h2>
+<h2 class="wp-block-heading" id="0-toc-title"><strong>How To Install BetterDocs PRO</strong> Changed</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>Step 1:</strong> Make sure that you have <a href="http://betterdocs.co/docs/activate-betterdocs/" target="_blank" rel="noreferrer noopener"><strong>Installed and Activated the Free version of BetterDocs FREE</strong></a>. You will need to keep the Free version activated to use the PRO Version.</p>
+<p><strong>Step 1:</strong> Make sure that you have <a href="http://betterdocs.co/docs/activate-betterdocs/" target="_blank" rel="noreferrer noopener"><strong>Installed and Activated the Free version of BetterDocs FREE</strong></a> Changed. You will need to keep the Free version activated to use the PRO Version.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13523} -->
